@@ -13,6 +13,8 @@ Scanner sc = new Scanner(System.in); //2. Object gemaakt van die scanner.
         System.out.println("4.Delen");
         System.out.println("");
 
+        //Dustin was here
+
 int userinput = sc.nextInt(); //3. User input opgeslagen in de variabel "userinpu"
 
 
